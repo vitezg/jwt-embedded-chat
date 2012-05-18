@@ -7,3 +7,7 @@ with the following HTML snippet:
 </script>
 
 Please note the three occurences of the "chat" string.
+
+For more information, please check this blog post:
+
+http://blog.elevat.eu/2012/05/website-widgets-with-jwt-and-jruby/
