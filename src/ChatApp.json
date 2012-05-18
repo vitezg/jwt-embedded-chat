@@ -4,7 +4,6 @@
 "servletclass":"ChatApp",
 "pidfile":"/tmp/jruby-pidfile",
 "stopfile":"/tmp/jruby-please-stop-",
-"basedir":"/full/path/to/your/app/base/",
-"jwt-config-file":"/full/path/to/properties.xml",
+"basedir":"/tmp/",
 "applicationtype":"WidgetSet"
 }
