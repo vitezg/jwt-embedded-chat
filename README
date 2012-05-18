@@ -1,0 +1,9 @@
+JWt embeddable chat example. This chat widget can be added to any web page
+with the following HTML snippet: 
+
+
+<div id="chat"></div>
+<script src="http://my.server/chat.js?div=chat">
+</script>
+
+Please note the three occurences of the "chat" string.
