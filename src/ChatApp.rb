@@ -45,11 +45,6 @@ class ChatApp < WApplication
     #set a really nice(TM) background color
     @top.getDecorationStyle.setBackgroundColor WColor.new("lightblue")
 
-
-    #set up the widgets: a container widget to hold
-    #the chat lines, with a height of 480 pixels,
-    #and scroll bar displayed only if the text overflows
-
     #the title container holds the user name, the close button
     #and opens the chat window when clicked on
     @titlecontainer = WContainerWidget.new @top
